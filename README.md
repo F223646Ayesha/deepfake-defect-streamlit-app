@@ -54,3 +54,7 @@ streamlit run my_app.py
 ## 🙌 Acknowledgment
 
 This app was created for the **Data Science A4 Assignment** under the guidance of Sir Usama.
+## Medium Blog Post
+https://medium.com/@f223646/building-an-ai-powered-streamlit-app-for-audio-deepfake-multi-label-text-classification-ed7458b5d65b
+## LinkedIn Post
+https://www.linkedin.com/posts/ayesha-naseem-061b35344_machinelearning-streamlit-audioprocessing-activity-7324757886209851392-oS4K?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZPGQkBvcNGbwsecx5RVfmrL_gOMqte_1c
